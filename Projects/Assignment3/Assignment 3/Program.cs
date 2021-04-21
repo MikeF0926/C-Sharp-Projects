@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Assignment_3
+namespace Assignment3
 {
     class Program
     {
