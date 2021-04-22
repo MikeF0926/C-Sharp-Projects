@@ -16,8 +16,9 @@ namespace Assignment6
             //created if/else statment to close if too big or continue
             if (weight > 50)
             {
-                Console.WriteLine("Package is too big to be shipped via Package Express. Have a good day.");
+                Console.WriteLine("Package is too heavy to be shipped via Package Express. Have a good day.");
             }
+
             else
             {
                 Console.WriteLine("Please enter package width:");
@@ -25,11 +26,25 @@ namespace Assignment6
                 Console.WriteLine("Please enter package height:");
                 int height = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Please enter package length:");
-                int length = Convert.ToInt32(Console.ReadLine());
-                //calculation for final price
-                decimal price = (width * length * height) * (weight) / 100;
-                //writing out come with price variable included.
-                Console.WriteLine("Your estimated total for shipping this package is: $" + price + "\nThank You!");
+                int length = Convert.ToInt32(Console.ReadLine());                
+
+                int pkgsize = width + height + length;
+
+                if (pkgsize > 50)
+                {
+                    Console.WriteLine("Package is too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    //calculation for final price
+                    decimal price = (width * length * height) * (weight) / 100;
+                    //writing out come with price variable included.
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + price + "\nThank You!");
+                }
+
+
+
+                
             }
             
             
