@@ -11,7 +11,7 @@ namespace Assignment10
         static void Main(string[] args)
         {
             //**Adding the user input to the string
-            //string[] strArray = { "Mike ", "Sam ", "Joseph ", "Matt ", "Jordan " };
+            //string[] strArray = { "Mike ", "Sam ", "Joseph ", "Matt ", "Jordan " }; //create a one-dimensional string
             //Console.WriteLine("Input some text: ");
             //string userInput = Console.ReadLine();
             //for (int i = 0; i < strArray.Length; i++ ) //this creates the loop for a "for" statement
@@ -44,7 +44,7 @@ namespace Assignment10
             //Console.ReadLine();
 
             //** list of strings
-            //List<string> names = new List<string>() { "Mike", "Sam", "Joseph", "Matt", "Jordan" };
+            //List<string> names = new List<string>() { "Mike", "Sam", "Joseph", "Matt", "Jordan" }; //creates a string
             //Console.WriteLine("Enter a first name to search index");
             //string oneInput = Console.ReadLine();
             //for (int i = 0; i < names.Count; i++)
