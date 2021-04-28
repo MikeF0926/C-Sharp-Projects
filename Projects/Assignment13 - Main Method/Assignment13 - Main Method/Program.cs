@@ -18,8 +18,8 @@ namespace Assignment13___Main_Method
             operation firstTry = new operation(); //performed each operation to link with the operation class
             operation secondTry = new operation();
             operation thirdTry = new operation();
-            Console.WriteLine(firstTry.Math1(5));
-            Console.WriteLine(secondTry.Math1(5, 18.33m)); //taking the formula from both this class and operations, and linked to make answers.
+            Console.WriteLine(firstTry.Math1(num1));
+            Console.WriteLine(secondTry.Math1(5, num2)); //taking the formula from both this class and operations, and linked to make answers.
             Console.WriteLine(thirdTry.Math1(5, 18.33m, myStr));
             Console.ReadLine();
         }
