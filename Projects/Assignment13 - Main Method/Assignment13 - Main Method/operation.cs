@@ -8,23 +8,23 @@ namespace Assignment13___Main_Method
 {
     class operation
     {
-        public int Math1(int num1)
+        public int Math1(int num)
         {
-            int ans1Result = num1 + 5; //created class to take an integer
-            return ans1Result;
+            int aNum = num + 10;
+            return aNum; //created class to take an integer
         }
 
-        public int Math1(decimal num2)
+        public decimal Math1(decimal num)
         {
-            decimal ans2Result = num2 + 5; //created a class to take in a decimal
-            return Convert.ToInt32(ans2Result);
+            decimal aNum = num * 10;
+            return aNum; //created a class to take in a decimal
         }
 
-        public int Math1(string num3)
+        public int Math1(string num1)
         {
-            int num4 = Convert.ToInt32(num3); //created with same name, but this will take a string and convert
-            int ans3Result = num4 + 5;
-            return ans3Result;
+            int conNum = Convert.ToInt32(num1);
+            int aNum = conNum - 10;
+            return aNum; //created with same name, but this will take a string and convert to integer
         }
     }
 }

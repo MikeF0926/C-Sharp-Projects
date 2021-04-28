@@ -10,17 +10,24 @@ namespace Assignment13___Main_Method
     {
         static void Main(string[] args)
         {
-            int num1 = 5; //gave value to each of these
-            decimal num2 = 18.33m;
-            string myStr = "20";
-            int num3 = Int32.Parse(myStr);
+            operation mather = new operation();
 
-            operation firstTry = new operation(); //performed each operation to link with the operation class
-            operation secondTry = new operation();
-            operation thirdTry = new operation();
-            Console.WriteLine(firstTry.Math1(num1));
-            Console.WriteLine(secondTry.Math1(Convert.ToInt32(num2))); //taking the formula from both this class and operations, and linked to make answers.
-            Console.WriteLine(thirdTry.Math1(num3));
+            Console.WriteLine("Type in a whole number.");
+            int userNum = Convert.ToInt32(Console.ReadLine()); //taking user input and taking from class
+            int firstAnswer = mather.Math1(userNum);
+            Console.WriteLine("Your number plus ten: " + firstAnswer);
+
+            Console.WriteLine("Give us a decimal number.");
+            decimal userNum2 = Convert.ToDecimal(Console.ReadLine()); //converting the decimal from second op. Multiply by 10.
+            decimal secondTry = mather.Math1(userNum2);
+            int secondAnswer = Convert.ToInt32(secondTry);
+            Console.WriteLine("Your number times ten: " + secondAnswer);
+
+            Console.WriteLine("Give me one last number.");
+            string userNum3 = Console.ReadLine();
+            int thirdAnswer = mather.Math1(userNum3);            //convering the third operation
+            Console.WriteLine("Your number minus ten: " + thirdAnswer);
+
             Console.ReadLine();
         }
     }
