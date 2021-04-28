@@ -10,13 +10,9 @@ namespace Assignment15___MethodIII
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pick a number");
-            int numOne = Convert.ToInt32(Console.ReadLine());//giving numbers
-            Console.WriteLine("Pick another number.");
-            int numTwo = Convert.ToInt32(Console.ReadLine());
-
+            
             MathOp firstOp = new MathOp(); //based off my other operation this will still take the and display the last number
-            firstOp.MyMethod(numOne, numTwo);
+            firstOp.MyMethod(numOne: 6, numTwo: 8);
 
             Console.ReadLine();
         }
