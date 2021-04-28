@@ -14,10 +14,10 @@ namespace Assignment13___Main_Method
             return ans1Result;
         }
 
-        public decimal Math1(int num1, decimal num2)
+        public int Math1(int num1, decimal num2)
         {
             decimal ans2Result = num2 * 5; //created a class to take in a decimal
-            return ans2Result;
+            return Convert.ToInt32(ans2Result);
         }
 
         public int Math1(int num1, decimal num2, string num3)
