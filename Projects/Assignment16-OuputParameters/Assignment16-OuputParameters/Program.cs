@@ -21,6 +21,8 @@ namespace Assignment16_OuputParameters
             FirstOp.myMethod2(test1, test2);
 
             Console.ReadLine();
+
+            mathop2.number1();
         }
     }
 }
