@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\bin\Debug\Assignment13 - Main Method.exe.config
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\bin\Debug\Assignment13 - Main Method.exe
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\bin\Debug\Assignment13 - Main Method.pdb
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\obj\Debug\Assignment13 - Main Method.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\obj\Debug\Assignment13 - Main Method.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\obj\Debug\Assignment13 - Main Method.exe
+C:\Users\micha\OneDrive\Desktop\C-Sharp-Projects\Projects\Assignment13 - Main Method\Assignment13 - Main Method\obj\Debug\Assignment13 - Main Method.pdb
