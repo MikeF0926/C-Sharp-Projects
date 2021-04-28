@@ -17,7 +17,7 @@ namespace Assignment14___Method_PartII
 
             MOps FirstOp = new MOps();
 
-            Console.WriteLine("Your input(s) + 30 = " + FirstOp.Method(num1, ans)); //converted this from the other class MOps.
+            Console.WriteLine("Your input(s) + 30 = " + FirstOp.Method(num1, ans)); //converted this from the other class MOps. This will write the outputs
 
             Console.ReadLine();
 
