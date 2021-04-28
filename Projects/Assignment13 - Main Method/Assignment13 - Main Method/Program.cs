@@ -12,7 +12,7 @@ namespace Assignment13___Main_Method
         {
             int num1 = 5; //gave value to each of these
             decimal num2 = 18.33m;
-            string myStr = "15";
+            string myStr = "20";
             int num3 = Int32.Parse(myStr);
 
             operation firstTry = new operation(); //performed each operation to link with the operation class
