@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\bin\Debug\Assignment17 - MandObjects.exe.config
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\bin\Debug\Assignment17 - MandObjects.exe
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\bin\Debug\Assignment17 - MandObjects.pdb
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\obj\Debug\Assignment17 - MandObjects.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\obj\Debug\Assignment17 - MandObjects.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\obj\Debug\Assignment17 - MandObjects.exe
+C:\Users\micha\Desktop\C-Sharp-Projects\Projects\Assignment17 - MandObjects\Assignment17 - MandObjects\obj\Debug\Assignment17 - MandObjects.pdb

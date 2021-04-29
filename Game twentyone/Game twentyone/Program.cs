@@ -10,7 +10,7 @@ namespace Game_twentyone
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();            
+            Deck deck = new Deck(); //calling method from different class
             deck.Shuffle(4);
 
 
@@ -18,7 +18,7 @@ namespace Game_twentyone
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-            Console.WriteLine(deck.Cards.Count);            
+            Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
 
