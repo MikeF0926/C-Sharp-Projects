@@ -10,11 +10,16 @@ namespace Assignment18___Abstract
     {
         static void Main(string[] args)
         {
-            Employee Person = new Employee(); //instantiate from Employee
-            Person.firstName = "Sample";
-            Person.lastName = "Student";
-            Person.SayName(); 
+            //Employee Person = new Employee(); //instantiate from Employee
+            //Person.firstName = "Sample";
+            //Person.lastName = "Student";
+            //Person.SayName(); 
+            //Console.ReadLine();
+
+            IQuittable quittable = new Employee() { firstName = "Jack", lastName = "Miller" };
+            quittable.Quit(); 
             Console.ReadLine();
+
         }
     }
 }
