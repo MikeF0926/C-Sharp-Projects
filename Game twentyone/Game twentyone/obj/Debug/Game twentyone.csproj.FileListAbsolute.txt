@@ -1,0 +1,7 @@
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\bin\Debug\Game twentyone.exe.config
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\bin\Debug\Game twentyone.exe
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\bin\Debug\Game twentyone.pdb
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\obj\Debug\Game twentyone.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\obj\Debug\Game twentyone.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\obj\Debug\Game twentyone.exe
+C:\Users\micha\source\repos\Game twentyone\Game twentyone\obj\Debug\Game twentyone.pdb
