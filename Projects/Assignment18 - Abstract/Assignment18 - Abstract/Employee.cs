@@ -12,9 +12,10 @@ namespace Assignment18___Abstract
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }
-        public void Quit(Person firstName, Person lastName)
+        public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine(firstName + lastName + "\n" +"This employee has respectfully resigned from their position.");
         }
+        
     }
 }

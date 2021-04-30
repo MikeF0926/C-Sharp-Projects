@@ -16,8 +16,8 @@ namespace Assignment18___Abstract
             //Person.SayName(); 
             //Console.ReadLine();
 
-            IQuittable quittable = new Employee() { firstName = "Jack", lastName = "Miller" };
-            quittable.Quit(); 
+            IQuittable quittable = new Employee() {firstName = "Jack", lastName = " Miller" };       
+            quittable.Quit();             
             Console.ReadLine();
 
         }
