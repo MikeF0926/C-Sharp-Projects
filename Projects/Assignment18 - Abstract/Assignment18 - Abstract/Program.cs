@@ -16,10 +16,19 @@ namespace Assignment18___Abstract
             //Person.SayName(); 
             //Console.ReadLine();
 
-            IQuittable quittable = new Employee() {firstName = "Jack", lastName = " Miller" };       
-            quittable.Quit();             
-            Console.ReadLine();
+            //IQuittable quittable = new Employee() {firstName = "Jack", lastName = " Miller" };       
+            //quittable.Quit();             
+            //Console.ReadLine();
 
+            Employee person1 = new Employee(); //instantiate
+            Employee person2 = new Employee();
+
+            person1.Id = 5; //setting id's for both to the same
+            person2.Id = 5;
+
+            bool result = person1 == person2; //using the overloaded operator created, for them to match.
+            Console.WriteLine(result); 
+            Console.ReadLine();
         }
     }
 }
