@@ -10,8 +10,7 @@ namespace Game_twentyone
     {
         public List<Player> Players { get; set; }
         public string Name { get; set; }
-        public string Dealer { get; set; }
-
+        
         public abstract void Play();
 
         public virtual void ListPlayers()
