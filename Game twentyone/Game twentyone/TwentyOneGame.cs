@@ -8,9 +8,12 @@ namespace Game_twentyone
 {
     public class TwentyOneGame : Game, IWalkAway
     {
+        public TwentyOneDealer Dealer { get; set; }
+
         public override void Play()
         {
-            throw new NotImplementedException();
+            Dealer = new TwentyOneDealer();
+            foreach (Player player in Players)
         }
         public override void ListPlayers()
         {
@@ -19,6 +22,7 @@ namespace Game_twentyone
         }
         public void WalkAway(Player player)
         {
-            throw new NotImplementedException();        }
+            throw new NotImplementedException();        
+        }
     }
 }
