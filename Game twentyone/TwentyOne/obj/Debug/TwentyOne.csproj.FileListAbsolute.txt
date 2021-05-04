@@ -1,0 +1,20 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.dll
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\bin\Debug\Casino2.dll
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\bin\Debug\Casino2.pdb
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\micha\Desktop\C-Sharp-Projects\Game twentyone\TwentyOne\obj\Debug\TwentyOne.pdb
