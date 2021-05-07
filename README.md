@@ -1,3 +1,6 @@
 # C-Sharp-Projects
 
-## I will be updating this with projects that I will be working on using C-Sharp and the .Net framework. Stay Tuned
+## Created several small projects using C-Sharp
+
+* Created a Blackjack game project
+* Created a Car insurance MVC
