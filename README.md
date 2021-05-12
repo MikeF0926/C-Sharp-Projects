@@ -9,4 +9,4 @@
 ###### Created a BlackJack game that you can play and bet in game money. Just a small project.
 
 ### Car Insurance
-###### Created a car insurance app that will let you know how much your car insurance will cost based around a few calculations.
+###### Created a car insurance app that will let you know how much your car insurance will cost based around a few calculations. Also added in the ability to work with an MVC for this project.
